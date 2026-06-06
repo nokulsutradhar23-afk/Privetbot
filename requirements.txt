@@ -1,0 +1,12 @@
+aiohttp==3.13.5
+beautifulsoup4==4.14.3
+cfonts==1.5.2
+google_play_scraper==1.2.7
+protobuf==7.34.1
+protobuf_decoder==0.4.0
+pycryptodome==3.23.0
+PyJWT==2.12.1
+python-telegram-bot==22.7
+pytz==2022.1
+Requests==2.34.0
+urllib3==1.26.5
